@@ -28,6 +28,8 @@
   --font-cafe-alpha: 'Heebo', 'Rubik', sans-serif;
 
   --footer-font: 'Heebo', 'Rubik', sans-serif;
+
+  --scroll-button-transition: 0.3s;
 }
 
 html {
