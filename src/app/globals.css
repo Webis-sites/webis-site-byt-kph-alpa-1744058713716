@@ -22,6 +22,8 @@
   --card-shadow-hover: 0 10px 15px rgba(0, 0, 0, 0.15);
 
   --card-transition: 0.3s;
+
+  --card-animation-duration: 0.3s;
 }
 
 html {
