@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-07T20:48:57.031Z",
+  "timestamp": "2025-04-07T20:49:49.841Z",
   "status": {
     "totalComponents": 10,
-    "completedComponents": 5,
+    "completedComponents": 6,
     "failedComponents": 0,
-    "progress": 50
+    "progress": 60
   },
   "components": [
     {
@@ -40,7 +40,7 @@
     {
       "name": "BookingSection",
       "type": "booking",
-      "status": "pending",
+      "status": "completed",
       "description": "Section with a booking form for customers to reserve tables or services"
     },
     {
