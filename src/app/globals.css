@@ -24,6 +24,8 @@
   --card-transition: 0.3s;
 
   --card-animation-duration: 0.3s;
+
+  --font-cafe-alpha: 'Heebo', 'Rubik', sans-serif;
 }
 
 html {
